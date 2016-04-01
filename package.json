@@ -1,7 +1,7 @@
 {
   "name": "right-pad",
   "version": "0.0.1",
-  "description": "",
+  "description": "Right Pad adds a padding to the right side of the string with the character of your choice or just blank space.",
   "author": {
     "name": "matthewh",
     "email": "hello@matthewh.in",
