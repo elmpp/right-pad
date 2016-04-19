@@ -1,6 +1,6 @@
 {
   "name": "right-pad",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Right Pad adds a padding to the right side of the string with the character of your choice or just blank space.",
   "author": {
     "name": "matthewh",
@@ -27,11 +27,6 @@
     "right",
     "pad",
     "string"
-  ],
-  "files": [
-    "examples/",
-    "README.md",
-    "rightpad.js"
   ],
   "license": "MIT"
 }
