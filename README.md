@@ -9,3 +9,5 @@ Right Pad adds a "padding" to the right side of the string with the character of
 var rightpad = require('right-pad');
 rightpad('hello world', 14, '.'); // => hello world...
 ```
+
+PAP
